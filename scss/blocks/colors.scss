@@ -1,0 +1,59 @@
+@import "./tt.scss";
+.colors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 1201px;
+    height: 433px;
+    top: 695px;
+    left: 360px;
+    padding: 94px, 63px, 94px, 63px;
+    border-radius: 70px;
+    gap: 10px;
+    
+    background: rgba(246, 246, 246, 1);
+
+
+    .contect{
+        
+        width: 90%;
+        height: 70%;
+        gap: 180px;
+        
+        
+
+    }
+    .pp-text{
+        width: 310px;
+        height: 101px;
+
+    }
+    .p-text{
+       
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 33px;
+      letter-spacing: 0.01em;
+      text-align: left;
+
+    }
+    .h-text{
+       position: relative;
+       left: 40px;
+       font-size: 50px;
+       font-weight: 400;
+       line-height: 63px;
+       letter-spacing: 0em;
+       text-align: left;
+
+    }
+    .right-color{
+        position: relative;
+        left: 450px;
+        bottom: 220px;
+        width: 583px;
+        height: 245px;
+        
+    }
+}

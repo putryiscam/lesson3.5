@@ -1,0 +1,48 @@
+.colors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 1201px;
+  height: 433px;
+  top: 695px;
+  left: 360px;
+  padding: 94px, 63px, 94px, 63px;
+  border-radius: 70px;
+  gap: 10px;
+  background: rgb(246, 246, 246);
+}
+.colors .contect {
+  width: 90%;
+  height: 70%;
+  gap: 180px;
+}
+.colors .pp-text {
+  width: 310px;
+  height: 101px;
+}
+.colors .p-text {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+.colors .h-text {
+  position: relative;
+  left: 40px;
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 63px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.colors .right-color {
+  position: relative;
+  left: 450px;
+  bottom: 220px;
+  width: 583px;
+  height: 245px;
+}
+
+/*# sourceMappingURL=colors.css.map */

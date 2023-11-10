@@ -1,0 +1,43 @@
+.typo {
+  position: relative;
+  width: 1201px;
+  height: 2634px;
+  top: 1228px;
+  left: 360px;
+  padding: 155px, 55px, 155px, 55px;
+  border-radius: 70px;
+  gap: 134px;
+  background: rgb(246, 246, 246);
+}
+.typo .typograph {
+  position: relative;
+  top: 130px;
+  left: 80px;
+  width: 1000px;
+  height: 882px;
+  gap: 42px;
+}
+.typo .paragraph {
+  width: 1000px;
+  height: 447px;
+  gap: 42px;
+  position: relative;
+  left: 80px;
+  top: 200px;
+}
+.typo .text {
+  width: 1000px;
+  height: 298px;
+  position: relative;
+  left: 80px;
+  top: 300px;
+}
+.typo .list {
+  width: 1000px;
+  height: 295px;
+  position: relative;
+  left: 80px;
+  top: 500px;
+}
+
+/*# sourceMappingURL=typo.css.map */

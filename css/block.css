@@ -1,0 +1,255 @@
+.banner {
+  position: relative;
+  width: 1920px;
+  height: 356px;
+  top: 139px;
+}
+
+.bottom {
+  position: relative;
+  width: 1200px;
+  height: 584px;
+  top: 1300px;
+  left: 360px;
+  padding: 144px, 83px, 144px, 83px;
+  border-radius: 70px;
+  gap: 10px;
+  background: rgb(246, 246, 246);
+}
+.bottom .content {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 140px;
+  margin: 0 auto;
+  width: 70%;
+  height: 50%;
+}
+.bottom .left-c {
+  position: relative;
+  left: -40px;
+  width: 317px;
+  height: 140px;
+}
+.bottom .right-c {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 570px;
+  height: 290px;
+}
+.bottom .b-p {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+.bottom .b-h {
+  margin: 0;
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 63px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.bottom .default {
+  width: 253.14px;
+  height: 124px;
+}
+.bottom .color {
+  width: 253.14px;
+  height: 124px;
+}
+.bottom .large {
+  width: 253.14px;
+  height: 124px;
+}
+.bottom .mb {
+  width: 253.14px;
+  height: 75px;
+  padding: 26px, 54px, 26px, 54px;
+  border-radius: 18px;
+  background: rgb(41, 47, 54);
+  box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+  position: relative;
+}
+.bottom .cb {
+  width: 224.14px;
+  height: 75px;
+  padding: 26px, 54px, 26px, 54px;
+  border-radius: 18px;
+  background: rgb(205, 162, 116);
+  box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+}
+.bottom .lb {
+  width: 253.14px;
+  height: 75px;
+  padding: 26px, 54px, 26px, 54px;
+  border-radius: 18px;
+  background: rgb(41, 47, 54);
+  box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+}
+.bottom .hm3 {
+  position: relative;
+  left: 40px;
+  top: 30px;
+  color: white;
+}
+.bottom .fa-solid {
+  position: relative;
+  left: 175px;
+  top: -12px;
+  color: rgb(205, 162, 116);
+  width: 15.14px;
+  height: 13.18px;
+  border: 2px;
+}
+.bottom .hl3 {
+  position: relative;
+  left: 40px;
+  top: 30px;
+  color: white;
+}
+.bottom .hc3 {
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+.bottom .fa-sharp {
+  position: relative;
+  left: 145px;
+  top: -10px;
+  color: black;
+  width: 15.14px;
+  height: 13.18px;
+  border: 2px;
+}
+
+.colors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 1201px;
+  height: 433px;
+  top: 695px;
+  left: 360px;
+  padding: 94px, 63px, 94px, 63px;
+  border-radius: 70px;
+  gap: 10px;
+  background: rgb(246, 246, 246);
+}
+.colors .contect {
+  width: 90%;
+  height: 70%;
+  gap: 180px;
+}
+.colors .pp-text {
+  width: 310px;
+  height: 101px;
+}
+.colors .p-text {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+.colors .h-text {
+  position: relative;
+  left: 40px;
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 63px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.colors .right-color {
+  position: relative;
+  left: 450px;
+  bottom: 220px;
+  width: 583px;
+  height: 245px;
+}
+
+.footer {
+  position: relative;
+  width: 1199px;
+  height: 370px;
+  top: 1428px;
+  left: 360px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 44px;
+}
+.header .left-h {
+  width: 177px;
+  height: 50px;
+  margin: 0;
+}
+.header .right-h {
+  display: flex;
+  justify-content: space-around;
+  width: 624px;
+  height: 25px;
+  margin: 0;
+}
+
+.style_guide {
+  width: 1920px;
+  height: 7235px;
+  border: 1px solid;
+}
+
+.typo {
+  position: relative;
+  width: 1201px;
+  height: 2634px;
+  top: 1228px;
+  left: 360px;
+  padding: 155px, 55px, 155px, 55px;
+  border-radius: 70px;
+  gap: 134px;
+  background: rgb(246, 246, 246);
+}
+.typo .typograph {
+  position: relative;
+  top: 130px;
+  left: 80px;
+  width: 1000px;
+  height: 882px;
+  gap: 42px;
+}
+.typo .paragraph {
+  width: 1000px;
+  height: 447px;
+  gap: 42px;
+  position: relative;
+  left: 80px;
+  top: 200px;
+}
+.typo .text {
+  width: 1000px;
+  height: 298px;
+  position: relative;
+  left: 80px;
+  top: 300px;
+}
+.typo .list {
+  width: 1000px;
+  height: 295px;
+  position: relative;
+  left: 80px;
+  top: 500px;
+}
+
+/*# sourceMappingURL=block.css.map */

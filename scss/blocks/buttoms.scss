@@ -1,0 +1,148 @@
+@import "./tt.scss";
+.bottom{
+    position: relative;
+    width: 1200px;
+    height: 584px;
+    top: 1300px;
+    left: 360px;
+    padding: 144px, 83px, 144px, 83px;
+    border-radius: 70px;
+    gap: 10px;
+    background: rgba(246, 246, 246, 1);
+   
+    .content{
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: 140px;
+        margin: $margin;
+        width: 70%;
+        height: 50%;
+      
+    }
+    .left-c{
+        position: relative;
+        left: -40px;
+        width: 317px;
+        height: 140px;
+ 
+
+    }
+    .right-c{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 570px;
+        height: 290px;
+        
+    }
+    .b-p{
+        margin: 0;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0.01em;
+        text-align: left;
+ 
+    }
+    .b-h{
+      margin: 0;
+      font-size: 50px;
+      font-weight: 400;
+      line-height: 63px;
+      letter-spacing: 0em;
+      text-align: left;
+
+    }
+    .default{
+        width: 253.14px;
+        height: 124px;
+        
+  
+    }
+    .color{
+        width: 253.14px;
+        height: 124px;
+        
+  
+    }
+    .large{
+        width: 253.14px;
+        height: 124px;
+        
+  
+    }
+    .mb{
+        width: 253.14px;
+        height: 75px;
+        padding: 26px, 54px, 26px, 54px;
+        border-radius: 18px;
+        background: rgba(41, 47, 54, 1);
+        box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+        position: relative;
+        
+
+
+    }
+    .cb{
+        width: 224.14px;
+        height: 75px;
+        padding: 26px, 54px, 26px, 54px;
+        border-radius: 18px;
+        background: rgba(205, 162, 116, 1);
+        box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+
+    }
+    .lb{
+        width: 253.14px;
+        height: 75px;
+        padding: 26px, 54px, 26px, 54px;
+        border-radius: 18px;
+        background: rgba(41, 47, 54, 1);
+        box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+
+
+    }
+    .hm3{
+        position: relative;
+        left: 40px;
+        top: 30px;
+        color: white;
+
+    }
+    
+    .fa-solid{
+        position: relative;
+        left: 175px;
+        top: -12px;
+        color: rgba(205, 162, 116, 1);
+
+        width: 15.14px;
+        height: 13.18px;
+        border: 2px;
+
+    }
+    .hl3{
+        position: relative;
+        left: 40px;
+        top: 30px;
+        color: white;
+    }
+    .hc3{
+        position: relative;
+        left: 40px;
+        top: 30px;
+        
+    }
+    .fa-sharp{
+        position: relative;
+        left: 145px;
+        top: -10px;
+        color: black;
+
+        width: 15.14px;
+        height: 13.18px;
+        border: 2px;
+    }
+
+}
